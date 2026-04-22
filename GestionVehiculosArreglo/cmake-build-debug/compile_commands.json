@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug",
+  "command": "C:\\PROGRA~4\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\GestionVehiculosArreglo.dir\\main.cpp.obj -c C:\\Programación\\CLionProjects\\GestionVehiculosArreglo\\main.cpp",
+  "file": "C:/Programación/CLionProjects/GestionVehiculosArreglo/main.cpp",
+  "output": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/GestionVehiculosArreglo.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug",
+  "command": "C:\\PROGRA~4\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\GestionVehiculosArreglo.dir\\Vehiculo.cpp.obj -c C:\\Programación\\CLionProjects\\GestionVehiculosArreglo\\Vehiculo.cpp",
+  "file": "C:/Programación/CLionProjects/GestionVehiculosArreglo/Vehiculo.cpp",
+  "output": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/GestionVehiculosArreglo.dir/Vehiculo.cpp.obj"
+},
+{
+  "directory": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug",
+  "command": "C:\\PROGRA~4\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\GestionVehiculosArreglo.dir\\VehiculoElectrico.cpp.obj -c C:\\Programación\\CLionProjects\\GestionVehiculosArreglo\\VehiculoElectrico.cpp",
+  "file": "C:/Programación/CLionProjects/GestionVehiculosArreglo/VehiculoElectrico.cpp",
+  "output": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/GestionVehiculosArreglo.dir/VehiculoElectrico.cpp.obj"
+},
+{
+  "directory": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug",
+  "command": "C:\\PROGRA~4\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\GestionVehiculosArreglo.dir\\VehiculoFamiliar.cpp.obj -c C:\\Programación\\CLionProjects\\GestionVehiculosArreglo\\VehiculoFamiliar.cpp",
+  "file": "C:/Programación/CLionProjects/GestionVehiculosArreglo/VehiculoFamiliar.cpp",
+  "output": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/GestionVehiculosArreglo.dir/VehiculoFamiliar.cpp.obj"
+},
+{
+  "directory": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug",
+  "command": "C:\\PROGRA~4\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\GestionVehiculosArreglo.dir\\Aparcamiento.cpp.obj -c C:\\Programación\\CLionProjects\\GestionVehiculosArreglo\\Aparcamiento.cpp",
+  "file": "C:/Programación/CLionProjects/GestionVehiculosArreglo/Aparcamiento.cpp",
+  "output": "C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/GestionVehiculosArreglo.dir/Aparcamiento.cpp.obj"
+}
+]

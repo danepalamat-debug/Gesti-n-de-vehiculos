@@ -1,0 +1,3 @@
+C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/GestionVehiculosArreglo.dir
+C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programación/CLionProjects/GestionVehiculosArreglo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
